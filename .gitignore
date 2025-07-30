@@ -1,0 +1,5 @@
+# Dependencies - This folder is huge and can be re-created by running 'npm install'
+node_modules/
+
+# Environment variables - This file contains secret API keys and should never be public
+.env
